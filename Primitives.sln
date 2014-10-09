@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitives", "Primitives\Primitives\Primitives.csproj", "{FE087631-62CE-4935-B91E-F338DA92B8A4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PrimitivesContent", "Primitives\PrimitivesContent\PrimitivesContent.contentproj", "{ADCB5568-286B-48B0-A6F5-9E131B27A73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE087631-62CE-4935-B91E-F338DA92B8A4}.Debug|x86.ActiveCfg = Debug|x86
+		{FE087631-62CE-4935-B91E-F338DA92B8A4}.Debug|x86.Build.0 = Debug|x86
+		{FE087631-62CE-4935-B91E-F338DA92B8A4}.Release|x86.ActiveCfg = Release|x86
+		{FE087631-62CE-4935-B91E-F338DA92B8A4}.Release|x86.Build.0 = Release|x86
+		{ADCB5568-286B-48B0-A6F5-9E131B27A73B}.Debug|x86.ActiveCfg = Debug|x86
+		{ADCB5568-286B-48B0-A6F5-9E131B27A73B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
